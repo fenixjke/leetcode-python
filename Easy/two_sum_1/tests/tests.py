@@ -1,4 +1,4 @@
-from main import Solution
+from Easy.two_sum_1.main import Solution
 
 
 def test_1():

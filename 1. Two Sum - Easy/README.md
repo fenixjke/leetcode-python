@@ -1,1 +1,0 @@
-![Alt text](/screenshots/1.%20Two%20Sum%20-%201.png?raw=true "1. Two Sum")
